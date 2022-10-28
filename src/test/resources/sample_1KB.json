@@ -1,0 +1,34 @@
+{
+	"cart": {
+		"@actionCode": "ADD",
+		"@cartId": "dlijsflij4546767",
+		"status": {
+			"@statusCode": "Reviewed"
+		},
+		"orderType": "MANAGEADDON",
+		"businessUnitName": "B2B",
+		"ipAddress": "192.102.23.21",
+		"deviceFingerPrintId": "system123",
+		"isInFlightOrder": "true",
+
+		"cartItem": [{
+			"@actionCode": "ADD",
+			"@cartItemId": "CartItemId",
+			"productOffering": {
+				"@productOfferingId": "AO_SESSION_01_POST",
+				"name": "Galaxy Tab 4 8.0",
+				"offerType": "AddOn",
+				"offerSubType": "SoftGood",
+				"brand": "T-Mobile",
+				"businessUnit": "Magenta",
+				"offeringPrice": {
+					"@priceListLineId": "FullPrice1",
+					"productOfferingPrice": {
+						"name": "Session Pass",
+						"oneTimeCharge": "1"
+					}
+				}
+			}
+		}]
+	}
+}

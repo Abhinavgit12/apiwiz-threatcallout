@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testng">
+  <test name="testng" preserve-order="true">
+    <!--
+    <classes>
+      <class name="com.apigee.callout.threats.ThreatCalloutTest"/>
+    </classes>
+    -->
+    <!--
+  <groups>
+      <define name="privatemethods">
+        <include name="private"/>
+      </define>
+
+      <define name="all">
+        <include name="private"/>
+      </define>
+
+      <run>
+        <include name="all"/>
+      </run>
+  </groups>
+-->
+
+  <packages>
+     <package name="com.tmobile.security.threatcheck" />
+    <package name="com.tmobile.security.threatcheck.utils" />
+  </packages>
+<!--
+        <classes>
+            <class name="com.qa.tests.MyClass" />
+        </classes>
+      -->
+    </test>
+</suite>

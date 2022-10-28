@@ -1,0 +1,22 @@
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="imagecategory"
+
+PROFILE
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="imagekeyname"
+
+ntId
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="imagekeyvalue"
+
+gsm1900\rgopina
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="uploaderid"
+
+sgovind1 select * from users;
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="imagefile"; filename="test.gif"
+Content-Type: image/gif
+
+fakebinarycontenthere. <script>this should not be detected.</script>kjflsdjflsjfljslfdjsl
+------WebKitFormBoundary7MA4YWxkTrZu0gW—

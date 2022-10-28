@@ -1,0 +1,5 @@
+
+Content-Disposition: form-data; name="imagefile"; filename="test.gif"
+Content-Type: image/png
+
+fakebinarycontenthere. <script>this should not be detected.</script>kjflsdjflsjfljslfdjsl
